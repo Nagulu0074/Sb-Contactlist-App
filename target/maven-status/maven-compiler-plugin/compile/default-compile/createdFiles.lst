@@ -1,0 +1,7 @@
+com\springboot\app\SbContactApp1Application.class
+com\springboot\app\rest\ContactRestController.class
+com\springboot\app\service\ContactServiceImplementation.class
+com\springboot\app\repository\ContactRepository.class
+com\springboot\app\service\ContactService.class
+com\springboot\app\entities\Contact.class
+com\springboot\app\bindings\ContactForm.class
